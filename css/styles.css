@@ -1,0 +1,169 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#title {
+  background-color: #7469b6;
+  color: #fff;
+  box-shadow: 0px 15px 25px -15px rgba(0, 0, 0, 0.5);
+}
+
+.title-div {
+  padding-top: 100px;
+}
+.title-img {
+  margin-left: 150px;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat-bold", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat-bold", sans-serif;
+  font-size: 1.5rem;
+  margin: 5px;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  padding-top: 20px;
+  width: 350px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat-light", sans-serif;
+  font-size: 1.2rem;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-img {
+  width: 60%;
+  transform: rotate(25deg);
+  margin-bottom: 30px;
+}
+
+#features {
+  padding: 12% 12%;
+}
+
+.features-div {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ffe6e6;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #e1afd1;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ad88c6;
+  color: #fff;
+  box-shadow: 0px -15px 25px -15px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-item {
+  padding: 7% 20% 0;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+#press {
+  text-align: center;
+  background-color: #ad88c6;
+  box-shadow: 0px 15px 25px -15px rgba(0, 0, 0, 0.5);
+}
+
+.logo-img {
+  width: 12%;
+  margin: 35px 20px 50px;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.card-header {
+  background-color: #ffe6e6;
+  text-align: center;
+}
+.btn-signUp1 {
+  border-color: #e1afd1;
+}
+.btn-signUp1:hover {
+  background-color: #ad88c6;
+  border-color: #ad88c6;
+}
+.btn-signUp2 {
+  background-color: #e1afd1;
+  border-color: #e1afd1;
+}
+.btn-signUp2:hover {
+  background-color: #ad88c6;
+  border-color: #ad88c6;
+}
+.pricing-colum {
+  padding: 3% 2%;
+}
+
+#cta {
+  text-align: center;
+}
+
+.card-footer {
+  background-color: #7469b6;
+  padding: 40px 0 20px 0;
+  box-shadow: 0px -15px 25px -15px rgba(0, 0, 0, 0.5);
+}
+
+#footer-text {
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.download-footer-button {
+  margin: 5px 10px 20px 5px;
+}
+
+#footer-copyright {
+  color: #fff;
+  padding-top: 30px;
+  margin: 0;
+  font-size: xx-small;
+}
